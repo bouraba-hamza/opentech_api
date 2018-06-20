@@ -1,0 +1,334 @@
+.form
+{
+
+	margin-top: 0%;
+}
+
+.addBtn
+{
+	width: 43%;
+}
+.control-label
+{
+	padding-top:0px !important;
+}
+.btn-info
+{
+
+	position: inherit;
+
+}
+.glyphicon
+{
+	padding-left:6%;
+	float: right;
+	padding-bottom: 2%;
+	cursor: pointer;
+	position: inherit;
+}
+.plus
+{
+	float: left;
+
+}
+.addcar
+{
+	cursor: pointer;
+	margin-right: 81%;
+}
+
+
+body
+{
+	background: #f1f2f7;
+	font-size: 14px;
+
+}
+.panel
+{
+	margin-top: 0%;
+}
+.row {
+	margin-right: -15px;
+	margin-left: -15px;
+}
+h3
+{
+
+	font-weight: bold;
+}
+.body
+{       display: block;
+	margin-top: 50px;
+	left: 0;
+	padding: 35px 15px 20px 210px;
+	min-height: 100%;
+}
+#client_info
+{
+	width: 50%;
+	margin-left: 22%;
+	margin-top: -11%;
+}
+.buttons
+{
+	float: right;
+	margin-top: -35%;
+	margin-left: 74%;
+}
+#client_info td
+{
+	padding: 2%;
+	width: 4%;
+}
+#contrat
+{
+
+}
+/*.panel-default>.panel-heading {*/
+	/*color: #333;*/
+	/*background-color: lightgrey;*/
+	/*border-color: #ddd;*/
+
+/*}*/
+
+.panel-default {
+	margin-top: 2%;
+	height:70px;
+}
+#refresh a
+{
+	margin-top: 1%;
+}
+.add_dialog
+ {
+
+	 border: none;
+	 box-shadow:20px 20px 50px 15px grey
+ }
+.edit_dialog
+{
+	border: none;
+	box-shadow:20px 20px 50px 15px grey
+}
+.car_dialog .form
+{
+	margin-left: -43%;
+	margin-right: -38%;
+}
+.panel>.panel-heading {
+	background-color: #f5f5f5;
+	padding: 15px;
+	border-bottom: 2px solid #3498DB;
+}
+.table-div
+{
+	border-bottom: 2px solid #3498DB;
+
+	padding: 15px;
+}
+.table
+{
+	border:1px solid #f4f4f4;
+	width:100%;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+thead tr
+{
+	color: #2a4f7d;
+}
+.form-control
+{
+	border-radius: 0;
+	box-shadow: none;
+	border-color: #d2d6de;
+	width: 94%;
+}
+.chosen-container {
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 13px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.chosen-container-active.chosen-with-drop .chosen-single {
+	border: 1px solid #aaa;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+	background-image: -webkit-gradient(linear,left top,left bottom,color-stop(20%,#eee),color-stop(80%,#fff));
+	background-image: linear-gradient(#eee 20%,#fff 80%);
+	-webkit-box-shadow: 0 1px 0 #fff inset;
+	box-shadow: 0 1px 0 #fff inset;
+}
+.chosen-container-active .chosen-single {
+	border: 1px solid #5897fb;
+	-webkit-box-shadow: 0 0 5px rgba(0,0,0,.3);
+	box-shadow: 0 0 5px rgba(0,0,0,.3);
+}
+.chosen-container-single .chosen-single {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	padding: 0 0 0 8px;
+	height: 25px;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+	background-color: #fff;
+	background: -webkit-gradient(linear,left top,left bottom,color-stop(20%,#fff),color-stop(50%,#f6f6f6),color-stop(52%,#eee),to(#f4f4f4));
+	background: linear-gradient(#fff 20%,#f6f6f6 50%,#eee 52%,#f4f4f4 100%);
+	background-clip: padding-box;
+	-webkit-box-shadow: 0 0 3px #fff inset, 0 1px 1px rgba(0,0,0,.1);
+	box-shadow: 0 0 3px #fff inset, 0 1px 1px rgba(0,0,0,.1);
+	color: #444;
+	text-decoration: none;
+	white-space: nowrap;
+	line-height: 24px;
+}
+.chosen-container-single .chosen-single {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	padding: 0 0 0 8px;
+	height: 25px;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+	background-color: #fff;
+	background: -webkit-gradient(linear,left top,left bottom,color-stop(20%,#fff),color-stop(50%,#f6f6f6),color-stop(52%,#eee),to(#f4f4f4));
+	background: linear-gradient(#fff 20%,#f6f6f6 50%,#eee 52%,#f4f4f4 100%);
+	background-clip: padding-box;
+	-webkit-box-shadow: 0 0 3px #fff inset, 0 1px 1px rgba(0,0,0,.1);
+	box-shadow: 0 0 3px #fff inset, 0 1px 1px rgba(0,0,0,.1);
+	color: #444;
+	text-decoration: none;
+	white-space: nowrap;
+	line-height: 24px;
+}
+.chosen-container a {
+	cursor: pointer;
+}
+.chosen-container * {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+a {
+	color: #337ab7;
+}
+a {
+	color: #777;
+	text-decoration: none;
+}
+.chosen-container-single .chosen-single span {
+	display: block;
+	overflow: hidden;
+	margin-right: 26px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.chosen-container-single .chosen-single div b {
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(chosen-sprite.png) no-repeat 0 2px;
+}
+.chosen-container-single .chosen-single div {
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+	width: 18px;
+	height: 100%;
+}
+.chosen-container-single .chosen-drop {
+	margin-top: -1px;
+	border-radius: 0 0 4px 4px;
+	background-clip: padding-box;
+}.chosen-container .chosen-drop {
+	 position: absolute;
+	 top: 100%;
+	 z-index: 1010;
+	 width: 100%;
+	 border: 1px solid #aaa;
+	 border-top: 0;
+	 background: #fff;
+	 -webkit-box-shadow: 0 4px 5px rgba(0,0,0,.15);
+	 box-shadow: 0 4px 5px rgba(0,0,0,.15);
+	 clip: rect(0,0,0,0);
+ }
+
+
+.chosen-container-single .chosen-search {
+	position: relative;
+	z-index: 1010;
+	margin: 0;
+	padding: 3px 4px;
+	white-space: nowrap;
+}
+.chosen-container-single .chosen-search input[type=text] {
+	margin: 1px 0;
+	padding: 4px 20px 4px 5px;
+	width: 100%;
+	height: auto;
+	outline: 0;
+	border: 1px solid #aaa;
+	background: url(chosen-sprite.png) no-repeat 100% -20px;
+	font-size: 1em;
+	font-family: sans-serif;
+	line-height: normal;
+	border-radius: 0;
+}
+.chosen-container .chosen-results {
+	color: #444;
+	position: relative;
+	overflow-x: hidden;
+	overflow-y: auto;
+	margin: 0 4px 4px 0;
+	padding: 0 0 0 4px;
+	max-height: 240px;
+	-webkit-overflow-scrolling: touch;
+}
+.menu-btn
+{
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-right: 5px;
+
+}
+.btn-primary {
+	background-color: #2a4f7d;
+	border-color: #2a4f7d;
+}
+.btn {
+	border-radius: 3px;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border: 1px solid transparent;
+
+}
+
+.btn {
+	border-radius: 3px;
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+
+body {
+	background: #f1f2f7;
+
+
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+
+}
+.panel-body {
+	padding: 15px;
+	border-bottom: 2px solid #3498DB;
+	background-color: white;
+}

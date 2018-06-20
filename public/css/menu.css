@@ -1,0 +1,101 @@
+.nav-side-menu {
+    overflow: auto;
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: 200;
+    background-color: #2e353d;
+    position: fixed;
+    width: 190px;
+    height: 100%;
+    color: #e1ffff;
+    top:0%;
+}
+
+.row {
+    margin-left: -30px;
+}
+.nav-side-menu .brand {
+    background-color: #2a4f7d;
+    line-height: 50px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+
+    padding-top: 8%;
+}
+.nav-side-menu .toggle-btn {
+    display: none;
+}
+.nav-side-menu ul, .nav-side-menu li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    line-height: 35px;
+    cursor: pointer;
+}
+.nav-side-menu li {
+    padding-left: 0px;
+    border-left: 3px solid #2e353d;
+    border-bottom: 1px solid #23282e;
+}
+menu li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    line-height: 35px;
+    cursor: pointer;
+}
+.nav-side-menu li a {
+    text-decoration: none;
+    color: #e1ffff;
+}
+.nav-side-menu li:hover {
+    border-left: 3px solid #d19b3d;
+    background-color: #4f5b69;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.dropdown
+{
+
+    float: right;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+#notif_icon
+{
+    float: right;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+#setting
+{
+    height: 36%;
+}
+.nav-side-menu li a {
+    width: 100%;
+    display: inline-block;
+}
+.nav-side-menu li a i {
+    padding-left: 10px;
+    width: 20px;
+    padding-right: 20px;
+}
+header
+{    position: fixed;
+    top: 0;
+    background-color: #fff;
+    width: 100%;
+    height: 72px;
+    line-height: 18px;
+    z-index: 1;
+}
+.user
+{
+    margin-left: 74%;
+    padding-top: 2%;
+}
